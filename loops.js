@@ -1,5 +1,5 @@
 function forLoop(array) {
-  var i = ''
+  var array = []
   array.length = 25
   for (var i = 0; i < 25; i++) {
     if (i === 1) {
